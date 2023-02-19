@@ -1,12 +1,14 @@
 {
   "VerticalMenu": 1,
   "Menu": 1,
-  "Div": 49,
-  "Image": 42,
-  "Flex": 176,
+  "Div": 53,
+  "Image": 62,
+  "Flex": 248,
   "Upload": 2,
-  "Button": 33,
+  "Button": 36,
   "Form": 1,
   "Input": 1,
-  "TextBox": 83
+  "TextBox": 109,
+  "Icon": 1,
+  "Rating": 1
 }
